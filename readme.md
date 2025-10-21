@@ -1,8 +1,10 @@
+# Histopathologic Cancer Detection
+
+A deep learning solution for automatically detecting metastatic cancer in histopathology image patches from the [Kaggle Histopathologic Cancer Detection challenge](https://www.kaggle.com/competitions/histopathologic-cancer-detection/).
+
 ## Project Overview
 
-This project focuses on the Kaggle Histopathologic Cancer Detection challenge. The main objective is to develop a machine learning model that can automatically detect metastatic cancer in small image patches extracted from large digital pathology scans. These scans show sections of lymph node tissue, and the task is to correctly classify whether each patch contains cancerous cells or not. The aim is to assist pathologists by improving the accuracy and efficiency of cancer detection through automated image analysis.
-
-This project develops a binary classification model to identify cancerous tissue in small image patches extracted from lymph node digital pathology scans. The solution achieves **99.52% AUC** on the validation set using a DenseNet121 architecture with transfer learning.
+This project develops a binary classification model to identify cancerous tissue in small image patches extracted from lymph node digital pathology scans. The solution achieves **99.52% AUC** on the validation set using a DenseNet121-based architecture.
 
 ## Submission Results
 
