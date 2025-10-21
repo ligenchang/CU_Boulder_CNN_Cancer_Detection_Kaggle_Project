@@ -29,10 +29,9 @@ This project develops a binary classification model to identify cancerous tissue
 | Metric | Value |
 |--------|-------|
 | Validation AUC | 99.52% |
-| Validation Accuracy | 98.0% |
-| Optimal Threshold | 0.5 |
-| Precision (Tumor) | High |
-| Recall (Tumor) | 96.2% |
+| Validation Accuracy | 97.29% |
+
+
 
 **Confusion Matrix**:
 - True Negatives: 25,661 (98.0% specificity)
